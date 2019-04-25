@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.count-style {
+  font-size: 100px;
+  color: #a9a9a9;
+}
+
+.clicker-display {
+  height: 200px;
+}
+
+.clicker-button-panel {
+  height: 100px;
+}
